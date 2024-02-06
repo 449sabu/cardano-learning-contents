@@ -1,0 +1,13 @@
+{
+	"public": true,
+	"page": [
+		{
+			"index": 1,
+			"file": "page-1.mdx"
+		},
+		{
+			"index": 2,
+			"file": "page-2.mdx"
+		}
+	]
+}
