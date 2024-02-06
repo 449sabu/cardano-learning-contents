@@ -10,10 +10,12 @@ course:
 
 ---
 topics:
-    - label: "nft"
-      name: "NFT"
+  - label: "nft"
+    name: "NFT"
+  - label: "contract"
+    name: "スマートコントラクト"
 
 ---
 resource:
-    - label: "api"
-      name: "API"
+  - label: "api"
+    name: "API"
