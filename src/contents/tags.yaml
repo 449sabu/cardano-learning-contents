@@ -1,5 +1,6 @@
 tags: 
   - course: 
+
     - label: "nft"
       name: "NFT"
 
@@ -12,10 +13,12 @@ tags:
     - label: "typescript"
       name: "TypeScript"
 
-  - topics:
+    topics:
+
     - label: "nft"
       name: "NFT"
 
-  - resource: 
+    resource: 
+    
     - label: "api"
       name: "API"
