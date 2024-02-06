@@ -8,14 +8,12 @@ course:
   - label: "typescript"
     name: "TypeScript"
 
----
 topics:
   - label: "nft"
     name: "NFT"
   - label: "contract"
     name: "スマートコントラクト"
 
----
 resource:
   - label: "api"
     name: "API"
