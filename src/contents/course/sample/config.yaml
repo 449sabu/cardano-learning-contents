@@ -1,0 +1,8 @@
+title: "初めてでもできる！CNFT作成方法と仕組み"
+summary: "Next.jsを使用してCNFTを作成します。"
+tags: ["typescript", "nextjs", "nft"] # タグは最大3個まで付けられます
+published: true
+# コースに含めるチャプターを順番に並べましょう
+chapters:
+  - page-1
+  - page-2
