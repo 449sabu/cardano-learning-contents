@@ -1,24 +1,19 @@
-tags: 
-  - course: 
+course:
+  - label: "nft"
+    name: "NFT"
+  - label: "aiken"
+    name: "Aiken"
+  - label: "contract"
+    name: "スマートコントラクト"
+  - label: "typescript"
+    name: "TypeScript"
 
+---
+topics:
     - label: "nft"
       name: "NFT"
 
-    - label: "aiken"
-      name: "Aiken"
-
-    - label: "contract"
-      name: "スマートコントラクト"
-    
-    - label: "typescript"
-      name: "TypeScript"
-
-    topics:
-
-    - label: "nft"
-      name: "NFT"
-
-    resource: 
-    
+---
+resource:
     - label: "api"
       name: "API"
