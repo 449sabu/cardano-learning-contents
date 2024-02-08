@@ -1,0 +1,7 @@
+title: "Aikenで初めてのスマートコントラクト"
+summary: "Next.jsを使用してAikenスマートコントラクトを作成します。"
+tags: ["typescript", "nextjs", "aiken"] # タグは最大3個まで付けられます
+published: true
+# コースに含めるチャプターを順番に並べましょう
+chapters:
+  - test-1
